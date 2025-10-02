@@ -1,0 +1,28 @@
+Hours_of_Sleep,   Hours_of_Screens,   Time_Down,               In_Room,   Screenlimit
+8,                1,                  Right before bed,        Yes,       No
+5,                4,                  1 hour before bed,       No,        Yes
+5,                10,                 1 hour before bed,       Yes,       Yes
+7,                2,                  30 minutes before bed,   No,        No
+8,                5,                  1 hour before bed,       No,        No
+9,                3,                  30 minutes before bed,   Yes,       Yes
+5,                3,                  30 minutes before bed,   No,        No
+8,                8,                  Right before bed,        No,        No
+9,                2,                  1 hour before bed,       No,        Yes
+8,                2,                  30 minutes before bed,   Yes,       No
+5,                8,                  1 hour before bed,       Yes,       Yes
+10,               2,                  Right before bed,        Yes,       No
+7,                8,                  1 hour before bed,       No,        No
+7,                9,                  1 hour before bed,       No,        Yes
+10,               7,                  30 minutes before bed,   No,        Yes
+8,                5,                  Right before bed,        Yes,       No
+7,                4,                  1 hour before bed,       No,        No
+8,                6,                  Right before bed,        Yes,       No
+7,                4,                  30 minutes before bed,   Yes,       No
+7,                10,                 Right before bed,        Yes,       No
+7,                2,                  30 minutes before bed,   Yes,       Yes
+8,                8,                  Right before bed,        Yes,       No
+8,                10,                 Right before bed,        Yes,       No
+8,                2,                  Right before bed,        No,        No
+8,                4,                  Right before bed,        Yes,       No
+7,                1,                  30 minutes before bed,   No,        No
+5,                4,                  Right before bed,        Yes,       No
