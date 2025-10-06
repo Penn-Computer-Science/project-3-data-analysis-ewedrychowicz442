@@ -24,6 +24,4 @@ data = {
 
 sleep_ScreensData = pd.DataFrame(data)
 
-#sleep_ScreensData.to_csv("sleep_ScreensData.csv", index = False)
-
-print(round(sleep_ScreensData.describe()))
+sleep_ScreensData.to_csv("sleep_ScreensData.csv", index = False)
