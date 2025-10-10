@@ -35,8 +35,8 @@ plt.xlabel('Hours of Sleep')
 plt.ylabel('Number of Students')
 plt.show()
 
-
-sleep_ScreensData['   Hours_of_Screens'].value_counts().plot(kind = 'pie')  #sorts data based on how many buckets
+colors = ['Teal', 'Lightblue', 'Lightgreen']
+sleep_ScreensData['   Time_Down'].value_counts().plot(kind = 'pie', autopct='%1.0f%%', colors = colors)  #sorts data based on how many buckets
 plt.title('When do Students Put Their Phones Down Before Bed')
-plt.ylabel('Number of Students')
+plt.ylabel('')
 plt.show()
