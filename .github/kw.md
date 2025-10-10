@@ -28,7 +28,7 @@ List the questions you asked in your survey and their type:
 ---
 
 ## Data Overview
-- **Link to Raw Data File (CSV):** [Download here](.github\sleep_ScreensData.csv)
+- **Link to Raw Data File (CSV):** [Download here](sleep_ScreensData.csv)
 - **Number of Columns:** _5_
 - **Number of Rows:** _28_
 - **Any Cleaning Steps Taken:** _I removed brackets around the number of hours of sleep each person got, and I spaced out the column headers in order to make it easier to read and understand._
