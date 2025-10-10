@@ -19,7 +19,7 @@ List the questions you asked in your survey and their type:
 
 | # | Question Text | Response Type (Multiple Choice / Numeric / Text) |
 |---|---------------|-------------------------------------------------|
-| 1 | _How many hours of sleep do you usually get? _ | Numeric |
+| 1 | _How many hours of sleep do you usually get?_ | Numeric |
 | 2 | _How many hours of screen time do you have per day?_ | Numeric |
 | 3 | _When do you put your phone/device down before bed?_ | _Multiple Choice_ |
 | 4 | _Do you keep your phone in your room when you sleep?_ | _Multiple Choice_ |
@@ -28,7 +28,7 @@ List the questions you asked in your survey and their type:
 ---
 
 ## Data Overview
-- **Link to Raw Data File (CSV):** [Download here](C:\Users\ewedrychowicz442\Documents\GitHub\project-3-data-analysis-ewedrychowicz442\.github\sleep_ScreensData.csv)
+- **Link to Raw Data File (CSV):** [Download here](.github\sleep_ScreensData.csv)
 - **Number of Columns:** _5_
 - **Number of Rows:** _28_
 - **Any Cleaning Steps Taken:** _I removed brackets around the number of hours of sleep each person got, and I spaced out the column headers in order to make it easier to read and understand._
@@ -40,9 +40,9 @@ List each chart you made, its type, and what it shows. Add a link or embed an im
 
 | # | Chart Title | Chart Type (Bar, Histogram, Scatter, etc.) | Brief Description | Link or Image |
 |---|-------------|-------------------------------------------|-------------------|---------------|
-| 1 | _Average Hours of Screen Time Per Day Related to Hours of Sleep_ | Bar Chart | Shows average hours of screen time per day compared to the hours of sleep. | ![Chart 1](C:\Users\ewedrychowicz442\Documents\GitHub\project-3-data-analysis-ewedrychowicz442\.github\Bar_Graph.png) |
-| 2 | _Hours of Sleep Distribution Among Students_ | Histogram | Shows how many students fall into different hours of sleep ranges. | ![Chart 2](C:\Users\ewedrychowicz442\Documents\GitHub\project-3-data-analysis-ewedrychowicz442\.github\Histogram.png) |
-| 3 | _When do Students Put Their Phones Down Before Bed_ | Pie Chart | Shows the percentages of when students put their phones down before bed. | ![Chart 3](C:\Users\ewedrychowicz442\Documents\GitHub\project-3-data-analysis-ewedrychowicz442\.github\Pie_Chart.png) |
+| 1 | _Average Hours of Screen Time Per Day Related to Hours of Sleep_ | Bar Chart | Shows average hours of screen time per day compared to the hours of sleep. | ![Chart 1](.github\Bar_Graph.png) |
+| 2 | _Hours of Sleep Distribution Among Students_ | Histogram | Shows how many students fall into different hours of sleep ranges. | ![Chart 2](.github\Histogram.png) |
+| 3 | _When do Students Put Their Phones Down Before Bed_ | Pie Chart | Shows the percentages of when students put their phones down before bed. | ![Chart 3](.github\Pie_Chart.png) |
 
 ---
 
