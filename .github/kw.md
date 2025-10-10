@@ -2,7 +2,7 @@
 
 ## Project Info
 - **Project Title:** _Sleep vs Screens Data Analysis_
-- **Your Name:** Katerina Wedrychowicz
+- **Your Name:** _Katerina Wedrychowicz_
 - **Date:** _10/10/2025_
 
 ---
