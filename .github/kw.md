@@ -40,9 +40,9 @@ List each chart you made, its type, and what it shows. Add a link or embed an im
 
 | # | Chart Title | Chart Type (Bar, Histogram, Scatter, etc.) | Brief Description | Link or Image |
 |---|-------------|-------------------------------------------|-------------------|---------------|
-| 1 | _Average Hours of Screen Time Per Day Related to Hours of Sleep_ | Bar Chart | Shows average hours of screen time per day compared to the hours of sleep. | ![Chart 1](.github\Bar_Graph.png) |
-| 2 | _Hours of Sleep Distribution Among Students_ | Histogram | Shows how many students fall into different hours of sleep ranges. | ![Chart 2](.github\Histogram.png) |
-| 3 | _When do Students Put Their Phones Down Before Bed_ | Pie Chart | Shows the percentages of when students put their phones down before bed. | ![Chart 3](.github\Pie_Chart.png) |
+| 1 | _Average Hours of Screen Time Per Day Related to Hours of Sleep_ | Bar Chart | Shows average hours of screen time per day compared to the hours of sleep. | ![Chart 1](Bar_Graph.png) |
+| 2 | _Hours of Sleep Distribution Among Students_ | Histogram | Shows how many students fall into different hours of sleep ranges. | ![Chart 2](Histogram.png) |
+| 3 | _When do Students Put Their Phones Down Before Bed_ | Pie Chart | Shows the percentages of when students put their phones down before bed. | ![Chart 3](Pie_Chart.png) |
 
 ---
 
